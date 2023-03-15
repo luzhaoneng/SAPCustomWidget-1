@@ -5,8 +5,8 @@
 		:host {
 			border-radius: 10px;
 			border-width: 2px;
-			border-color: black;
-			border-style: solid;
+			border-color: white;
+			border-style: none;
 			display: block;
 		} 
 
